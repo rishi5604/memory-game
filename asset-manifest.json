@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/www.gintamamemory.com/static/css/main.e88b38c5.css",
-    "main.js": "/www.gintamamemory.com/static/js/main.dfbf1d43.js",
-    "index.html": "/www.gintamamemory.com/index.html",
-    "main.e88b38c5.css.map": "/www.gintamamemory.com/static/css/main.e88b38c5.css.map",
-    "main.dfbf1d43.js.map": "/www.gintamamemory.com/static/js/main.dfbf1d43.js.map"
+    "main.css": "/my-app/static/css/main.e88b38c5.css",
+    "main.js": "/my-app/static/js/main.dfbf1d43.js",
+    "index.html": "/my-app/index.html",
+    "main.e88b38c5.css.map": "/my-app/static/css/main.e88b38c5.css.map",
+    "main.dfbf1d43.js.map": "/my-app/static/js/main.dfbf1d43.js.map"
   },
   "entrypoints": [
     "static/css/main.e88b38c5.css",
