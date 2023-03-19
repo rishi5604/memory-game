@@ -2,6 +2,7 @@
   "name": "memory-game",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rishi5604.github.io/my-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -12,7 +13,6 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "www.gintamamemory.com",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
